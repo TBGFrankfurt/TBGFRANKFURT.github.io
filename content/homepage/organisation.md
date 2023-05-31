@@ -30,6 +30,7 @@ Wann ein Spieltreffen stattfindet kannst Du immer im Discord unter „Treffen“
 Unsere aktuelle Adresse lautet:
 
 &nbsp;&nbsp;&nbsp;&nbsp;{{<extlink text="Flinschstr. 35, 60388 Frankfurt am Main" href="https://goo.gl/maps/qt2J8dzGh4THh6fp7">}}
+[{{< figure src="images/Flinschstr-google.png" width="50%">}}](https://goo.gl/maps/qt2J8dzGh4THh6fp7 "Flinschstr. 35, 60388 Frankfurt am Main")
 
 Nahe U-Bahn-Station Gwinnerstraße (U4, U7), Parkplätze auf der Straße sind in der Regel ausreichend vorhanden.
 
