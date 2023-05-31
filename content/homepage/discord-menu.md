@@ -1,5 +1,5 @@
 ---
-title: ''
+#title: 'Discord'
 
 # The "header_menu_title" value will be used as text for header buttons.
 # The "title" value will be used if value for "header_menu_title" is not provided.
@@ -12,11 +12,12 @@ title: ''
 # The "weight" will determine where this section appears on the "homepage".
 # A bigger weight will place the content more towards the bottom of the page.
 # It's like gravity ;-).
-weight: 1
+
+#weight: 700
 
 # If "header_menu" is true, then a button linking to this section will be placed
 # into the header menu at the top of the homepage.
-header_menu: false
----
 
-[{{< figure src="images/discord_logo_blurple_RBG.png" width="50%">}}](https://discord.gg/AvVvjJa "Auf zu unserem Discord")
+#header_menu: true
+#external: https://discord.gg/AvVvjJa
+---
