@@ -28,9 +28,9 @@ header_menu: true
 
 ##### Vertretungsberechtigte
 
-- 1. Vorsitzender: Hannes Gehrig
-- 2. Vorsitzender: Christian Tries
-- 3. Vorsitzender: Daniel Ebling
+- 1. Vorsitzender: Christian Tries
+- 2. Vorsitzender: Daniel Ebling
+- Kassenwart: Hannes Gehrig
 
 ##### Kontakt
 
