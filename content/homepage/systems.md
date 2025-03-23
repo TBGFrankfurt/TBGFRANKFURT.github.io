@@ -27,25 +27,30 @@ Wir spielen eine große Anzahl unterschiedlicher Tabletop-Systeme. Hier eine Aus
 - Warhammer 40k
 - Infinity
 - Warhammer 40k Kill Team
+- Necromunda
 - Marvel Crisis Protocol
 
 ##### Fantasy
 
 - Warhammer Age of Sigmar
 - Warhammer WarCry
+- Warhammer Underworlds
 - Warmaster
 - Bloodbowl
 - Conquest: Last Argument of Kings
 - Malifaux
-- Middle-Earth Strategy Battle Game 
+- Middle-Earth Strategy Battle Game
 
 ##### Historisch
 
 - Bolt Action
 - Flames of War
 - Saga
+- Bushido
+- The Silver Bayonet
 
 ##### Weitere
 
+- Trench Crusade
 - Magic the Gathering
 - div. Brettspiele
