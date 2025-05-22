@@ -29,9 +29,12 @@ Wir spielen eine große Anzahl unterschiedlicher Tabletop-Systeme. Hier eine Aus
 - Warhammer 40k Kill Team
 - Necromunda
 - Marvel Crisis Protocol
+- Battlefleet Gothic
+- Legions Imperialis
 
 ##### Fantasy
 
+- Mordheim
 - Warhammer Age of Sigmar
 - Warhammer WarCry
 - Warhammer Underworlds

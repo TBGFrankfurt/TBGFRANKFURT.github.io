@@ -2,6 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Tabletop- & Boardgamegemeinschaft Frankfurt e.V.'
 theme = 'hugo-scroll'
+copyright = '© Tabletop- & Boardgamegemeinschaft Frankfurt e.V.'
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -12,3 +13,6 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
     copyright = "Copyright © 2025 Tabletop- & Boardgamegemeinschaft Frankfurt e.V. - alle Recht vorbehalten"
     images = ["images/tbg-frankfurt-background.png"]
     title_guard = true
+
+[params.meta]
+    keywords = "Tabletop, Frankfurt am Main, Warhammer, Verein, Boardgames, 40k, AOS, Age of Sigmar, Mordheim, Bloodbowl, Trench Crusade"
