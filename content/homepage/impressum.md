@@ -29,7 +29,7 @@ header_menu: true
 ##### Vertretungsberechtigte
 
 - Christian Tries (1\. Vorsitzender)
-- Daniel Ebling (2\. Vorsitzender)
+- Christian Sippel (2\. Vorsitzender)
 - Hannes Gehrig (Kassenwart)
 
 ##### Kontakt
