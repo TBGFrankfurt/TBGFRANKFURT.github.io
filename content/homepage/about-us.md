@@ -16,7 +16,7 @@ Wir fassen hier die wichtigsten Dinge kurz zusammen, damit Du weißt wie es bei 
 
 ##### Wie kannst Du mit uns in Kontakt treten?
 
-Am besten Du meldest dich zu erst [hier]({{% ref "Discord" %}}) auf unserem Discord Server an. ;) 
+Am besten Du meldest dich zu erst [hier](https://discord.gg/NXNypWY2EQ) auf unserem Discord Server an. ;) 
 
 Du landest dort erstmal auf der Türschwelle. 
 Wenn Du Dich dort meldest und kurz vorstellst, wirst du für alle anderen Channels zeitnah freigeschaltet.
