@@ -19,4 +19,4 @@ weight: 1
 header_menu: false
 ---
 
-[{{< figure src="images/discord_logo_blurple_RBG.png" width="50%">}}](https://discord.gg/AvVvjJa "Auf zu unserem Discord")
+[{{< figure src="images/discord_logo_blurple_RBG.png" width="50%">}}](https://discord.gg/NXNypWY2EQ "Auf zu unserem Discord")

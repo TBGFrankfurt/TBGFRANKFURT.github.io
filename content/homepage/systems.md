@@ -43,6 +43,7 @@ Wir spielen eine große Anzahl unterschiedlicher Tabletop-Systeme. Hier eine Aus
 - Conquest: Last Argument of Kings
 - Malifaux
 - Middle-Earth Strategy Battle Game
+- Ømen Tide
 
 ##### Historisch
 
@@ -51,9 +52,11 @@ Wir spielen eine große Anzahl unterschiedlicher Tabletop-Systeme. Hier eine Aus
 - Saga
 - Bushido
 - The Silver Bayonet
+- Pillage
 
 ##### Weitere
 
 - Trench Crusade
+- Dystopian Wars
 - Magic the Gathering
 - div. Brettspiele
