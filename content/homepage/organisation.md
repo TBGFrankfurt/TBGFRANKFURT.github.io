@@ -40,4 +40,4 @@ Als Verein sind wir auf aktive Mitglieder angewiesen. Wir haben einen Monatsbeit
 Solltest Du Mitglied werden wollen, sprich uns zu den Bedingungen an und bring das ausgefüllte [Antragsformular (pdf)](documents/Aufnahmeantrag.pdf) & [Datenschutzverordnung (pdf)](documents/DSGVO.pdf) mit.  
 [Satzung des Vereins Tabletop- und Boardgamegemeinschaft Frankfurt - Stand 25-05-20 (pdf)](documents/Satzung_des_Vereins_TBG.pdf)
 
-Bzgl. der Regelung für Nicht-Mitglieder, schau Dir bitte die aktuell gültige Regelung in unserem {{<extlink text="Discord" href="https://discord.gg/AvVvjJa">}} an.
+Bzgl. der Regelung für Nicht-Mitglieder, schau Dir bitte die aktuell gültige Regelung in unserem {{<extlink text="Discord" href="https://discord.gg/NXNypWY2EQ">}} an.
