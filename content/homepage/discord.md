@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Discord'
 slug: 'Discord'
 
 # The "header_menu_title" value will be used as text for header buttons.
