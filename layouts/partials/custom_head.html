@@ -31,12 +31,36 @@
   /* Mobile background image fix */
   @media only screen and (max-width: 768px) {
     #site-head {
+      display: block !important;
+      width: 100% !important;
+      max-width: 100% !important;
+      overflow: hidden !important;
+      box-sizing: border-box !important;
       background-size: 100% auto !important;
       background-position: center top !important;
       background-attachment: scroll !important;
       background-color: #0B2161;
       height: auto !important;
       min-height: 75vw !important;
+    }
+
+    #site-head .blog-title {
+      font-size: 1.8rem !important;
+      overflow-wrap: break-word !important;
+      word-break: break-word !important;
+      hyphens: auto !important;
+    }
+
+    #site-head .title-and-description-guard {
+      width: 90% !important;
+      max-width: 90% !important;
+      box-sizing: border-box !important;
+    }
+
+    #site-head .site-head-content {
+      display: block !important;
+      width: 100% !important;
+      box-sizing: border-box !important;
     }
   }
 </style>
