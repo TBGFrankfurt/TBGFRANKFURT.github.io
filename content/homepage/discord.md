@@ -20,4 +20,4 @@ weight: 1
 header_menu: false
 ---
 
-<a href='{{< param "meta.discord_url" >}}' title="Auf zu unserem Discord" target="_blank">{{< figure src="images/discord_logo_blurple_RBG.png" width="50%">}}</a>
+{{< discord >}}{{< figure src="images/discord_logo_blurple_RBG.png" width="50%">}}{{< /discord >}}
