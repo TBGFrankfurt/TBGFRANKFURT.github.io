@@ -5,14 +5,15 @@ theme = 'hugo-scroll'
 copyright = '© Tabletop- & Boardgamegemeinschaft Frankfurt e.V.'
 
 # This is a "one page"-website, so we do not need these kinds of pages...
-disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+disableKinds = ["section", "taxonomy", "term", "RSS"]
 
 [params]
     favicon = "images/tbg-favicon-48x48.png"
     title = "Tabletop- & Boardgamegemeinschaft Frankfurt e.V."
-    copyright = "Copyright © 2025 Tabletop- & Boardgamegemeinschaft Frankfurt e.V. - alle Recht vorbehalten"
+    copyright = "Copyright © 2026 Tabletop- & Boardgamegemeinschaft Frankfurt e.V. - alle Recht vorbehalten"
     images = ["images/tbg-frankfurt-background.png"]
     title_guard = true
 
 [params.meta]
-    keywords = "Tabletop, Frankfurt am Main, Warhammer, Verein, Boardgames, 40k, AOS, Age of Sigmar, Mordheim, Bloodbowl, Trench Crusade"
+    keywords = "Tabletop, Frankfurt am Main, Warhammer, Verein, Boardgames, 40k, AOS, Age of Sigmar, Mordheim, Bloodbowl, Trench Crusade, Ømen Tide, Infinity, Necromunda, Kill Team, Marvel Crisis Protocol, Battlefleet Gothic, Legions Imperialis, Warmaster, Conquest: Last Argument of Kings, Malifaux, Middle-Earth Strategy Battle Game, Bolt Action, Flames of War, Saga, Bushido, The Silver Bayonet, Pillage, Trench Crusade, Dystopian Wars, Magic the Gathering"
+    discord_url = "https://discord.gg/NXNypWY2EQ"
