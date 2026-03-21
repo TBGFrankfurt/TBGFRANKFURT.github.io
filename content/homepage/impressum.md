@@ -35,7 +35,7 @@ header_menu: true
 ##### Kontakt
 
 - E-Mail: webmaster@tbg-frankfurt.de
-- Discord: {{< param "meta.discord_url" >}}
+- Discord: {{< discord />}}
 
 ##### Dokumente
 
