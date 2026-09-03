@@ -31,6 +31,8 @@ Wir spielen eine große Anzahl unterschiedlicher Tabletop-Systeme. Hier eine Aus
 - Marvel Crisis Protocol
 - Battlefleet Gothic
 - Legions Imperialis
+- OPR Grimdark Future
+- StarCraft TMG
 
 ##### Fantasy
 
@@ -40,9 +42,11 @@ Wir spielen eine große Anzahl unterschiedlicher Tabletop-Systeme. Hier eine Aus
 - Warhammer Underworlds
 - Warmaster
 - Bloodbowl
+- Blitzbowl
 - Conquest: Last Argument of Kings
 - Malifaux
 - Middle-Earth Strategy Battle Game
+- OPR Age of Fantasy
 - Ømen Tide
 
 ##### Historisch
@@ -59,4 +63,5 @@ Wir spielen eine große Anzahl unterschiedlicher Tabletop-Systeme. Hier eine Aus
 - Trench Crusade
 - Dystopian Wars
 - Magic the Gathering
+- Sorcery
 - div. Brettspiele
